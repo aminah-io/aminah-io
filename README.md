@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 
-<a href="https://app.daily.dev/aminah-io"><img src="https://github.com/aminah-io/aminah-io/blob/main/devcard.svg" width="400" alt="Aminah's Dev Card"/></a>
+<a href="https://app.daily.dev/aminah-io"><img src="https://github.com/aminah-io/aminah-io/blob/main/devcard.svg" width="200" alt="Aminah's Dev Card"/></a>
